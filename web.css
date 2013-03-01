@@ -1,0 +1,29 @@
+p {
+	color: red;
+}
+
+a {
+	color: blue;
+}
+div1{
+height: 600px;
+width: 838px;
+margin: -154px 0 0 -418px;
+position: absolute;
+left: 50%;
+width: 838px;
+}
+ div2{
+    
+width:250px;
+padding:50px;
+border:5px solid black;
+margin:10px;
+
+}
+box{
+    font-family:sans-serif;
+    position:absolute;
+    right:5px;
+
+}
